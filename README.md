@@ -19,10 +19,9 @@ This doc contains the links to all of my course works and course related extra w
 - [CSE 102 iGraphics Project](https://github.com/ShadmanSShuvo/FlappyBird)
 
 ## Level 1 Term 2
-- [CSE 105 | Data Structures and Algorithms (DSA) I](https://github.com/ShadmanSShuvo/CSE105)
-- [CSE 106 | Data Structures and Algorithms (DSA) I Sessional](https://github.com/ShadmanSShuvo/CSE106)
-- [CSE 107 | Object Oriented Programming (OOP)](https://github.com/ShadmanSShuvo/CSE107)
-- [CSE 108 | Object Oriented Programming (OOP)](https://github.com/ShadmanSShuvo/CSE108)
+- [CSE 105 | Data Structures and Algorithms (DSA) I](https://github.com/ShadmanSShuvo/CSE105-DSA)
+- [CSE 107 | Object Oriented Programming (OOP)](https://github.com/ShadmanSShuvo/CSE107-OOP)
+
 
 ## Level 2 Term 1
 
