@@ -21,6 +21,7 @@ This doc contains the links to all of my course works and course related extra w
 ## Level 1 Term 2
 - [CSE 105 | Data Structures and Algorithms (DSA) I](https://github.com/ShadmanSShuvo/CSE105-DSA)
 - [CSE 107 | Object Oriented Programming (OOP)](https://github.com/ShadmanSShuvo/CSE107-OOP)
+- [CSE 108 JavaFX Project (with Shayan Un Noor)](https://github.com/ShadmanSShuvo/AlgoMania)
 
 
 ## Level 2 Term 1
