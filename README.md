@@ -13,6 +13,7 @@ This doc contains the links to all of my course works and course related extra w
  - [Level 4 Term 1](#level-4-term-1)
  - [Level 4 Term 2](#level-4-term-2)
 
+<img src="/buet_cse_courseworks2.jpg" height="450px" width="800px">
 
 ## Level 1 Term 1
 - [CSE 101/102 | Structured Programming Language](https://github.com/ShadmanSShuvo/CSE102-coursework)
