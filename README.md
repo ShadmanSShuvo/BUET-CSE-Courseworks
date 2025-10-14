@@ -15,34 +15,37 @@ This doc contains the links to all of my course works and course related extra w
 
 <img src="/buet_cse_courseworks2.jpg" height="450px" width="800px">
 
-## Level 1 Term 1
-- [CSE 101/102 | Structured Programming Language](https://github.com/ShadmanSShuvo/CSE102-coursework)
+<h2 align="center" id="level-1-term-1">Level 1 - Term 1</h2>
+
+
+## **`CSE 412` : Simulation and Modeling Sessional**
+## [CSE 101/102 | Structured Programming Language](https://github.com/ShadmanSShuvo/CSE102-coursework)
   [![ShadmanSShuvo/CSE102-coursework - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE102-coursework.svg)](https://github.com/ShadmanSShuvo/CSE102-coursework)
-- [CSE 102 iGraphics Project](https://github.com/ShadmanSShuvo/FlappyBird)
+## [CSE 102 iGraphics Project](https://github.com/ShadmanSShuvo/FlappyBird)
   [![ShadmanSShuvo/FlappyBird - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/FlappyBird.svg)](https://github.com/ShadmanSShuvo/FlappyBird)
 
-## Level 1 Term 2
-- [CSE 105 | Data Structures and Algorithms (DSA) I](https://github.com/ShadmanSShuvo/CSE105-DSA)
+<h2 align="center" id="level-1-term-2">Level 1 - Term 2</h2>
+## [CSE 105 | Data Structures and Algorithms (DSA) I](https://github.com/ShadmanSShuvo/CSE105-DSA)
   [![ShadmanSShuvo/CSE105-DSA - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE105-DSA.svg)](https://github.com/ShadmanSShuvo/CSE105-DSA)
-- [CSE 107 | Object Oriented Programming (OOP)](https://github.com/ShadmanSShuvo/CSE107-OOP)
+## [CSE 107 | Object Oriented Programming (OOP)](https://github.com/ShadmanSShuvo/CSE107-OOP)
   [![ShadmanSShuvo/CSE107-OOP - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE107-OOP.svg)](https://github.com/ShadmanSShuvo/CSE107-OOP)
-- [CSE 108 JavaFX Project (with Shayan Un Noor)](https://github.com/ShadmanSShuvo/AlgoMania)
+## [CSE 108 JavaFX Project (with Shayan Un Noor)](https://github.com/ShadmanSShuvo/AlgoMania)
   [![ShadmanSShuvo/AlgoMania - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/AlgoMania.svg)](https://github.com/ShadmanSShuvo/AlgoMania)
 
 
-## Level 2 Term 1
+<h2 align="center" id="level-2-term-1">Level 2 - Term 1</h2>
 
 
-## Level 2 Term 2
+<h2 align="center" id="level-2-term-2">Level 2 - Term 2</h2>
 
 
-## Level 3 Term 1
+<h2 align="center" id="level-3-term-1">Level 3 - Term 1</h2>
 
 
-## Level 3 Term 2
+<h2 align="center" id="level-3-term-2">Level 3 - Term 2</h2>
 
 
-## Level 4 Term 1
+<h2 align="center" id="level-4-term-1">Level 4 - Term 1</h2>
 
 
-## Level 4 Term 2
+<h2 align="center" id="level-4-term-2">Level 4 - Term 2</h2>
