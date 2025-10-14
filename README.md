@@ -18,7 +18,7 @@ This doc contains the links to all of my course works and course related extra w
 <h2 align="center" id="level-1-term-1">Level 1 - Term 1</h2>
 
 
-## **`CSE 412` : Simulation and Modeling Sessional**
+
 ## [CSE 101/102 | Structured Programming Language](https://github.com/ShadmanSShuvo/CSE102-coursework)
   [![ShadmanSShuvo/CSE102-coursework - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE102-coursework.svg)](https://github.com/ShadmanSShuvo/CSE102-coursework)
 ## [CSE 102 iGraphics Project](https://github.com/ShadmanSShuvo/FlappyBird)
