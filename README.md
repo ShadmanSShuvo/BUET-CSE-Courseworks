@@ -39,6 +39,16 @@ This doc contains the links to all of my course works and course related extra w
 
 <h2 align="center" id="level-2-term-1">Level 2 - Term 1</h2>
 
+## [CSE 205 | Digital Logic Design](https://github.com/ShadmanSShuvo/CSE205-DLD)
+  [![ShadmanSShuvo/CSE205-DLD - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE205-DLD.svg)](https://github.com/ShadmanSShuvo/CSE205-DLD)
+
+## [CSE 207 | Data Structures and Algorithms (DSA) II](https://github.com/ShadmanSShuvo/CSE207-DSA)
+  [![ShadmanSShuvo/CSE207-DSA - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE207-DSA.svg)](https://github.com/ShadmanSShuvo/CSE207-DSA)
+
+## [CSE 215 | Database](https://github.com/ShadmanSShuvo/CSE215-DB)
+  [![ShadmanSShuvo/CSE215-DB - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE215-DB.svg)](https://github.com/ShadmanSShuvo/CSE215-DB)
+
+
 
 <h2 align="center" id="level-2-term-2">Level 2 - Term 2</h2>
 
