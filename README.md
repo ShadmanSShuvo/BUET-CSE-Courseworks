@@ -48,11 +48,23 @@ This doc contains the links to all of my course works and course related extra w
 ## [CSE 216 | Database](https://github.com/ShadmanSShuvo/CSE215-DB)
   [![ShadmanSShuvo/CSE216-Database - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE216-Database.svg)](https://github.com/ShadmanSShuvo/CSE216-Database)
 
-
+## [CSE 216 Database Project](https://github.com/ShadmanSShuvo/edu-Verse)
+  [![ShadmanSShuvo/edu-Verse - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/edu-Verse.svg)](https://github.com/ShadmanSShuvo/edu-Verse)
 
 <h2 align="center" id="level-2-term-2">Level 2 - Term 2</h2>
 
+## [CSE 200 | Technical Writing & Presentation](https://github.com/ShadmanSShuvo/CSE200-LaTeX)
+  [![ShadmanSShuvo/CSE200-LaTeX - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE200-LaTeX.svg)](https://github.com/ShadmanSShuvo/CSE200-LaTeX)
 
+## [CSE 210 | Computer Architechture](https://github.com/ShadmanSShuvo/CSE210-CompArch)
+  [![ShadmanSShuvo/CSE210-CompArch - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE210-CompArch.svg)](https://github.com/ShadmanSShuvo/CSE210-CompArch)
+
+## [CSE 214 | Software Engineering](https://github.com/ShadmanSShuvo/CSE214-SWE)
+  [![ShadmanSShuvo/CSE214-SWE - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE214-SWE.svg)](https://github.com/ShadmanSShuvo/CSE214-SWE)
+
+## [CSE 220 | Signals & Linear Systems](https://github.com/ShadmanSShuvo/CSE220-SigSys)
+  [![ShadmanSShuvo/CSE220-SigSys - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE220-SigSys.svg)](https://github.com/ShadmanSShuvo/CSE220-SigSys)
+  
 <h2 align="center" id="level-3-term-1">Level 3 - Term 1</h2>
 
 
