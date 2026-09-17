@@ -59,11 +59,11 @@ This doc contains the links to all of my course works and course related extra w
 ## [CSE 210 | Computer Architechture](https://github.com/ShadmanSShuvo/CSE210-CompArch)
   [![ShadmanSShuvo/CSE210-CompArch - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE210-CompArch.svg)](https://github.com/ShadmanSShuvo/CSE210-CompArch)
 
-## [CSE 214 | Software Engineering](https://github.com/ShadmanSShuvo/CSE214-Software-Engineering)
-  [![ShadmanSShuvo/CSE214-Software-Engineering - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE214-Software-Engineering.svg)](https://github.com/ShadmanSShuvo/CSE214-Software-Engineering)
+## [CSE 214 | Software Engineering](https://github.com/ShadmanSShuvo/CSE214)
+  [![ShadmanSShuvo/CSE214 - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE214.svg)](https://github.com/ShadmanSShuvo/CSE214)
 
-## [CSE 220 | Signals & Linear Systems](https://github.com/ShadmanSShuvo/CSE220-Signals)
-  [![ShadmanSShuvo/CSE220-Signals - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE220-Signals.svg)](https://github.com/ShadmanSShuvo/CSE220-Signals)
+## [CSE 220 | Signals & Linear Systems](https://github.com/ShadmanSShuvo/CSE220)
+  [![ShadmanSShuvo/CSE220 - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE220.svg)](https://github.com/ShadmanSShuvo/CSE220)
   
 <h2 align="center" id="level-3-term-1">Level 3 - Term 1</h2>
 
