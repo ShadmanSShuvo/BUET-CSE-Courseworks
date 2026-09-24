@@ -22,7 +22,7 @@ This doc contains the links to all of my course works and course related extra w
 ## [CSE 102 | Structured Programming Language](https://github.com/ShadmanSShuvo/CSE102-coursework)
   [![ShadmanSShuvo/CSE102-coursework - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE102-coursework.svg)](https://github.com/ShadmanSShuvo/CSE102-coursework)
 
-## [CSE 102 iGraphics Project](https://github.com/ShadmanSShuvo/FlappyBird)
+## [CSE 102 iGraphics Project | FlappyBird](https://github.com/ShadmanSShuvo/FlappyBird)
   [![ShadmanSShuvo/FlappyBird - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/FlappyBird.svg)](https://github.com/ShadmanSShuvo/FlappyBird)
 
 <h2 align="center" id="level-1-term-2">Level 1 - Term 2</h2>
@@ -33,13 +33,13 @@ This doc contains the links to all of my course works and course related extra w
 ## [CSE 108 | Object Oriented Programming (OOP)](https://github.com/ShadmanSShuvo/CSE108-OOP)
   [![ShadmanSShuvo/CSE108-OOP - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE108-OOP.svg)](https://github.com/ShadmanSShuvo/CSE108-OOP)
 
-## [CSE 108 JavaFX Project (with Shayan Un Noor)](https://github.com/ShadmanSShuvo/AlgoMania)
+## [CSE 108 JavaFX Project | AlgoMania](https://github.com/ShadmanSShuvo/AlgoMania)
   [![ShadmanSShuvo/AlgoMania - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/AlgoMania.svg)](https://github.com/ShadmanSShuvo/AlgoMania)
 
 
 <h2 align="center" id="level-2-term-1">Level 2 - Term 1</h2>
 
-## [CSE 206 | Digital Logic Design](https://github.com/ShadmanSShuvo/CSE206-Digital-Logic-Design)
+## [CSE 206 | Digital Logic Design (DLD)](https://github.com/ShadmanSShuvo/CSE206-Digital-Logic-Design)
   [![ShadmanSShuvo/CSE206-Digital-Logic-Design - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE206-Digital-Logic-Design.svg)](https://github.com/ShadmanSShuvo/CSE206-Digital-Logic-Design)
 
 ## [CSE 208 | Data Structures and Algorithms (DSA) II](https://github.com/ShadmanSShuvo/CSE208-DSA-II)
@@ -48,7 +48,7 @@ This doc contains the links to all of my course works and course related extra w
 ## [CSE 216 | Database](https://github.com/ShadmanSShuvo/CSE216-Database)
   [![ShadmanSShuvo/CSE216-Database - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE216-Database.svg)](https://github.com/ShadmanSShuvo/CSE216-Database)
 
-## [CSE 216 Database Project](https://github.com/ShadmanSShuvo/edu-Verse)
+## [CSE 216 Database Project | eduVerse](https://github.com/ShadmanSShuvo/edu-Verse)
   [![ShadmanSShuvo/edu-Verse - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/edu-Verse.svg)](https://github.com/ShadmanSShuvo/edu-Verse)
 
 <h2 align="center" id="level-2-term-2">Level 2 - Term 2</h2>
@@ -64,6 +64,9 @@ This doc contains the links to all of my course works and course related extra w
 
 ## [CSE 220 | Signals & Linear Systems](https://github.com/ShadmanSShuvo/CSE220)
   [![ShadmanSShuvo/CSE220 - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE220.svg)](https://github.com/ShadmanSShuvo/CSE220)
+
+## [CSE 220 Signals Project | QRSense](https://github.com/ShadmanSShuvo/QRSense)
+  [![ShadmanSShuvo/QRSense - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/QRSense.svg)](https://github.com/ShadmanSShuvo/QRSense)
   
 <h2 align="center" id="level-3-term-1">Level 3 - Term 1</h2>
 
