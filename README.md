@@ -56,14 +56,14 @@ This doc contains the links to all of my course works and course related extra w
 ## [CSE 200 | Technical Writing & Presentation](https://github.com/ShadmanSShuvo/CSE200-LaTeX)
   [![ShadmanSShuvo/CSE200-LaTeX - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE200-LaTeX.svg)](https://github.com/ShadmanSShuvo/CSE200-LaTeX)
 
-## [CSE 210 | Computer Architechture](https://github.com/ShadmanSShuvo/CSE210-CompArch)
-  [![ShadmanSShuvo/CSE210-CompArch - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE210-CompArch.svg)](https://github.com/ShadmanSShuvo/CSE210-CompArch)
+## [CSE 210 | Computer Architechture](https://github.com/ShadmanSShuvo/CSE210-Computer-Architecture)
+  [![ShadmanSShuvo/CSE210-Computer-Architecture - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE210-Computer-Architecture.svg)](https://github.com/ShadmanSShuvo/CSE210-Computer-Architecture)
 
-## [CSE 214 | Software Engineering](https://github.com/ShadmanSShuvo/CSE214)
-  [![ShadmanSShuvo/CSE214 - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE214.svg)](https://github.com/ShadmanSShuvo/CSE214)
+## [CSE 214 | Software Engineering](https://github.com/ShadmanSShuvo/CSE214-Software-Engineering)
+  [![ShadmanSShuvo/CSE214-Software-Engineering - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE214-Software-Engineering.svg)](https://github.com/ShadmanSShuvo/CSE214-Software-Engineering)
 
-## [CSE 220 | Signals & Linear Systems](https://github.com/ShadmanSShuvo/CSE220)
-  [![ShadmanSShuvo/CSE220 - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE220.svg)](https://github.com/ShadmanSShuvo/CSE220)
+## [CSE 220 | Signals & Linear Systems](https://github.com/ShadmanSShuvo/CSE220-Signals-Linear-Systems)
+  [![ShadmanSShuvo/CSE220-Signals-Linear-Systems - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE220-Signals-Linear-Systems.svg)](https://github.com/ShadmanSShuvo/CSE220-Signals-Linear-Systems)
 
 ## [CSE 220 Signals Project | QRSense](https://github.com/ShadmanSShuvo/QRSense)
   [![ShadmanSShuvo/QRSense - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/QRSense.svg)](https://github.com/ShadmanSShuvo/QRSense)
