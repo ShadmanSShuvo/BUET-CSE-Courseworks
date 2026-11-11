@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
+  <title id="title">CSE 102 — CSE102-coursework</title>
+  <desc id="desc">Structured Programming Language, LEVEL 1 · TERM 1, COURSEWORK</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172554"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="148" rx="14" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+  <rect x="22" y="24" width="5" height="102" rx="2.5" fill="#38bdf8"/>
+  <text x="48" y="45" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">LEVEL 1 · TERM 1  ·  COURSEWORK</text>
+  <text x="48" y="82" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">CSE 102  |  Structured Programming Language</text>
+  <text x="48" y="112" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="15">github.com/ShadmanSShuvo/CSE102-coursework</text>
+  <g transform="translate(690 53)" fill="none" stroke="#94a3b8" stroke-width="2">
+    <path d="M-12 0a12 12 0 1 0 24 0a12 12 0 1 0-24 0"/>
+    <path d="M-5 -2l5 -4l5 4v7l-5 4l-5 -4z"/>
+  </g>
+</svg>

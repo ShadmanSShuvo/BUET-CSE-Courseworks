@@ -1,80 +1,81 @@
-## BUET CSE Courseworks
-This doc contains the links to all of my course works and course related extra works of BUET CSE.
+# BUET CSE Courseworks
 
-### *_Note:  The first thing you should do entering a repository(linked from this README) is to read the README._*
+This repository contains links to my coursework, academic projects, and course-related extra work throughout my undergraduate journey at the **Department of Computer Science and Engineering, BUET**.
 
-## Table of Contents:
- - [Level 1 Term 1](#level-1-term-1)
- - [Level 1 Term 2](#level-1-term-2)
- - [Level 2 Term 1](#level-2-term-1)
- - [Level 2 Term 2](#level-2-term-2)
- - [Level 3 Term 1](#level-3-term-1)
- - [Level 3 Term 2](#level-3-term-2)
- - [Level 4 Term 1](#level-4-term-1)
- - [Level 4 Term 2](#level-4-term-2)
+> **Note:** Before exploring any linked repository, please read its README first.
 
-<img src="/buet_cse_courseworks2.jpg" height="450px" width="800px">
+![BUET CSE Courseworks](assets/buet_cse_courseworks2.jpg)
 
-<h2 align="center" id="level-1-term-1">Level 1 - Term 1</h2>
+## Table of Contents
 
+- [Level 1 Term 1](#level-1-term-1)\n- [Level 1 Term 2](#level-1-term-2)\n- [Level 2 Term 1](#level-2-term-1)\n- [Level 2 Term 2](#level-2-term-2)\n- [Level 3 Term 1](#level-3-term-1)\n- [Level 3 Term 2](#level-3-term-2)\n- [Level 4 Term 1](#level-4-term-1)\n- [Level 4 Term 2](#level-4-term-2)\n\n---\n\n<h2 align="center" id="level-1---term-1">Level 1 - Term 1</h2>\n\n### CSE 102 | Structured Programming Language
 
+[![CSE 102 — CSE102-coursework](assets/repo-cards/01-CSE102-coursework.svg)](https://github.com/ShadmanSShuvo/CSE102-coursework)
 
-## [CSE 102 | Structured Programming Language](https://github.com/ShadmanSShuvo/CSE102-coursework)
-  [![ShadmanSShuvo/CSE102-coursework - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE102-coursework.svg)](https://github.com/ShadmanSShuvo/CSE102-coursework)
+**Repository:** [ShadmanSShuvo/CSE102-coursework](https://github.com/ShadmanSShuvo/CSE102-coursework)
+\n### CSE 102 | iGraphics Project · FlappyBird
 
-## [CSE 102 iGraphics Project | FlappyBird](https://github.com/ShadmanSShuvo/FlappyBird)
-  [![ShadmanSShuvo/FlappyBird - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/FlappyBird.svg)](https://github.com/ShadmanSShuvo/FlappyBird)
+[![CSE 102 — FlappyBird](assets/repo-cards/02-FlappyBird.svg)](https://github.com/ShadmanSShuvo/FlappyBird)
 
-<h2 align="center" id="level-1-term-2">Level 1 - Term 2</h2>
+**Repository:** [ShadmanSShuvo/FlappyBird](https://github.com/ShadmanSShuvo/FlappyBird)
+\n---\n\n<h2 align="center" id="level-1---term-2">Level 1 - Term 2</h2>\n\n### CSE 106 | Data Structures and Algorithms I
 
-## [CSE 106 | Data Structures and Algorithms (DSA) I](https://github.com/ShadmanSShuvo/CSE106-DSA-I)
-  [![ShadmanSShuvo/CSE106-DSA-I - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE106-DSA-I.svg)](https://github.com/ShadmanSShuvo/CSE106-DSA-I)
+[![CSE 106 — CSE106-DSA-I](assets/repo-cards/03-CSE106-DSA-I.svg)](https://github.com/ShadmanSShuvo/CSE106-DSA-I)
 
-## [CSE 108 | Object Oriented Programming (OOP)](https://github.com/ShadmanSShuvo/CSE108-OOP)
-  [![ShadmanSShuvo/CSE108-OOP - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE108-OOP.svg)](https://github.com/ShadmanSShuvo/CSE108-OOP)
+**Repository:** [ShadmanSShuvo/CSE106-DSA-I](https://github.com/ShadmanSShuvo/CSE106-DSA-I)
+\n### CSE 108 | Object Oriented Programming
 
-## [CSE 108 JavaFX Project | AlgoMania](https://github.com/ShadmanSShuvo/AlgoMania)
-  [![ShadmanSShuvo/AlgoMania - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/AlgoMania.svg)](https://github.com/ShadmanSShuvo/AlgoMania)
+[![CSE 108 — CSE108-OOP](assets/repo-cards/04-CSE108-OOP.svg)](https://github.com/ShadmanSShuvo/CSE108-OOP)
 
+**Repository:** [ShadmanSShuvo/CSE108-OOP](https://github.com/ShadmanSShuvo/CSE108-OOP)
+\n### CSE 108 | JavaFX Project · AlgoMania
 
-<h2 align="center" id="level-2-term-1">Level 2 - Term 1</h2>
+[![CSE 108 — AlgoMania](assets/repo-cards/05-AlgoMania.svg)](https://github.com/ShadmanSShuvo/AlgoMania)
 
-## [CSE 206 | Digital Logic Design (DLD)](https://github.com/ShadmanSShuvo/CSE206-Digital-Logic-Design)
-  [![ShadmanSShuvo/CSE206-Digital-Logic-Design - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE206-Digital-Logic-Design.svg)](https://github.com/ShadmanSShuvo/CSE206-Digital-Logic-Design)
+**Repository:** [ShadmanSShuvo/AlgoMania](https://github.com/ShadmanSShuvo/AlgoMania)
+\n---\n\n<h2 align="center" id="level-2---term-1">Level 2 - Term 1</h2>\n\n### CSE 206 | Digital Logic Design
 
-## [CSE 208 | Data Structures and Algorithms (DSA) II](https://github.com/ShadmanSShuvo/CSE208-DSA-II)
-  [![ShadmanSShuvo/CSE208-DSA-II - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE208-DSA-II.svg)](https://github.com/ShadmanSShuvo/CSE208-DSA-II)
+[![CSE 206 — CSE206-Digital-Logic-Design](assets/repo-cards/06-CSE206-Digital-Logic-Design.svg)](https://github.com/ShadmanSShuvo/CSE206-Digital-Logic-Design)
 
-## [CSE 216 | Database](https://github.com/ShadmanSShuvo/CSE216-Database)
-  [![ShadmanSShuvo/CSE216-Database - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE216-Database.svg)](https://github.com/ShadmanSShuvo/CSE216-Database)
+**Repository:** [ShadmanSShuvo/CSE206-Digital-Logic-Design](https://github.com/ShadmanSShuvo/CSE206-Digital-Logic-Design)
+\n### CSE 208 | Data Structures and Algorithms II
 
-## [CSE 216 Database Project | eduVerse](https://github.com/ShadmanSShuvo/edu-Verse)
-  [![ShadmanSShuvo/edu-Verse - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/edu-Verse.svg)](https://github.com/ShadmanSShuvo/edu-Verse)
+[![CSE 208 — CSE208-DSA-II](assets/repo-cards/07-CSE208-DSA-II.svg)](https://github.com/ShadmanSShuvo/CSE208-DSA-II)
 
-<h2 align="center" id="level-2-term-2">Level 2 - Term 2</h2>
+**Repository:** [ShadmanSShuvo/CSE208-DSA-II](https://github.com/ShadmanSShuvo/CSE208-DSA-II)
+\n### CSE 216 | Database
 
-## [CSE 200 | Technical Writing & Presentation](https://github.com/ShadmanSShuvo/CSE200-LaTeX)
-  [![ShadmanSShuvo/CSE200-LaTeX - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE200-LaTeX.svg)](https://github.com/ShadmanSShuvo/CSE200-LaTeX)
+[![CSE 216 — CSE216-Database](assets/repo-cards/08-CSE216-Database.svg)](https://github.com/ShadmanSShuvo/CSE216-Database)
 
-## [CSE 210 | Computer Architechture](https://github.com/ShadmanSShuvo/CSE210-Computer-Architecture)
-  [![ShadmanSShuvo/CSE210-Computer-Architecture - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE210-Computer-Architecture.svg)](https://github.com/ShadmanSShuvo/CSE210-Computer-Architecture)
+**Repository:** [ShadmanSShuvo/CSE216-Database](https://github.com/ShadmanSShuvo/CSE216-Database)
+\n### CSE 216 | Database Project · eduVerse
 
-## [CSE 214 | Software Engineering](https://github.com/ShadmanSShuvo/CSE214-Software-Engineering)
-  [![ShadmanSShuvo/CSE214-Software-Engineering - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE214-Software-Engineering.svg)](https://github.com/ShadmanSShuvo/CSE214-Software-Engineering)
+[![CSE 216 — edu-Verse](assets/repo-cards/09-edu-Verse.svg)](https://github.com/ShadmanSShuvo/edu-Verse)
 
-## [CSE 220 | Signals & Linear Systems](https://github.com/ShadmanSShuvo/CSE220-Signals-Linear-Systems)
-  [![ShadmanSShuvo/CSE220-Signals-Linear-Systems - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/CSE220-Signals-Linear-Systems.svg)](https://github.com/ShadmanSShuvo/CSE220-Signals-Linear-Systems)
+**Repository:** [ShadmanSShuvo/edu-Verse](https://github.com/ShadmanSShuvo/edu-Verse)
+\n---\n\n<h2 align="center" id="level-2---term-2">Level 2 - Term 2</h2>\n\n### CSE 200 | Technical Writing & Presentation
 
-## [CSE 220 Signals Project | QRSense](https://github.com/ShadmanSShuvo/QRSense)
-  [![ShadmanSShuvo/QRSense - GitHub](https://gh-card.dev/repos/ShadmanSShuvo/QRSense.svg)](https://github.com/ShadmanSShuvo/QRSense)
-  
-<h2 align="center" id="level-3-term-1">Level 3 - Term 1</h2>
+[![CSE 200 — CSE200-LaTeX](assets/repo-cards/10-CSE200-LaTeX.svg)](https://github.com/ShadmanSShuvo/CSE200-LaTeX)
 
+**Repository:** [ShadmanSShuvo/CSE200-LaTeX](https://github.com/ShadmanSShuvo/CSE200-LaTeX)
+\n### CSE 210 | Computer Architecture
 
-<h2 align="center" id="level-3-term-2">Level 3 - Term 2</h2>
+[![CSE 210 — CSE210-Computer-Architecture](assets/repo-cards/11-CSE210-Computer-Architecture.svg)](https://github.com/ShadmanSShuvo/CSE210-Computer-Architecture)
 
+**Repository:** [ShadmanSShuvo/CSE210-Computer-Architecture](https://github.com/ShadmanSShuvo/CSE210-Computer-Architecture)
+\n### CSE 214 | Software Engineering
 
-<h2 align="center" id="level-4-term-1">Level 4 - Term 1</h2>
+[![CSE 214 — CSE214-Software-Engineering](assets/repo-cards/12-CSE214-Software-Engineering.svg)](https://github.com/ShadmanSShuvo/CSE214-Software-Engineering)
 
+**Repository:** [ShadmanSShuvo/CSE214-Software-Engineering](https://github.com/ShadmanSShuvo/CSE214-Software-Engineering)
+\n### CSE 220 | Signals & Linear Systems
 
-<h2 align="center" id="level-4-term-2">Level 4 - Term 2</h2>
+[![CSE 220 — CSE220-Signals-Linear-Systems](assets/repo-cards/13-CSE220-Signals-Linear-Systems.svg)](https://github.com/ShadmanSShuvo/CSE220-Signals-Linear-Systems)
+
+**Repository:** [ShadmanSShuvo/CSE220-Signals-Linear-Systems](https://github.com/ShadmanSShuvo/CSE220-Signals-Linear-Systems)
+\n### CSE 220 | Signals Project · QRSense
+
+[![CSE 220 — QRSense](assets/repo-cards/14-QRSense.svg)](https://github.com/ShadmanSShuvo/QRSense)
+
+**Repository:** [ShadmanSShuvo/QRSense](https://github.com/ShadmanSShuvo/QRSense)
+\n---\n\n<h2 align="center" id="level-3---term-1">Level 3 - Term 1</h2>\n\n*Coming soon.*\n\n---\n\n<h2 align="center" id="level-3---term-2">Level 3 - Term 2</h2>\n\n*Coming soon.*\n\n---\n\n<h2 align="center" id="level-4---term-1">Level 4 - Term 1</h2>\n\n*Coming soon.*\n\n---\n\n<h2 align="center" id="level-4---term-2">Level 4 - Term 2</h2>\n\n*Coming soon.*\n\n---\n\n<p align="center"><i>Maintained by <a href="https://github.com/ShadmanSShuvo">ShadmanSShuvo</a></i></p>\n
